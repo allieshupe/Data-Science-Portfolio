@@ -1,0 +1,5 @@
+# Hotel Cancelations with Predictive Analytics #
+
+For this project, I will be analyzing a dataset from Kaggle that contains hotel bookings between 2015 and 2017 to predict whether a booking will be canceled by the customer in advance of the stay. The data can be found at this link: https://www.kaggle.com/datasets/khairullahhamsafar/hotels-booking-data-cleaned-version. It is also saved as “hotel_booking_data_cleaned.csv” in this folder. While the dataset contains data from dozens of countries, it will be filtered to only include bookings at US hotels. A few key independent variables in the data are the lead time of the reservation, length of the reservation, and if the reservation required a deposit. These, along with a few others, will be used to predict the binary cancelation variable. A classification model will be used to predict if a booking will result in a cancelation. Please navigate to the “HotelCancelation_Code.ipynb” file to see the Jupyter notebook containing the code and output for this analysis.
+
+If you encounter any issues with the code or have questions, please contact the author, Allie Shupe.
