@@ -1,8 +1,5 @@
-# DSC 510
-# Week 10
-# Course Project
-# Author Allie Shupe
-# 8/12/2023
+# Interactive Weather Code
+# This code will return the current weather of a given US city
 
 import requests
 
