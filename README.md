@@ -13,5 +13,5 @@ This repository is a collection of data science projects which I have completed.
 9.	Applied Data Science Project 2 (TBD).
 10.	Applied Data Science Project 3 (TBD).
 
-Please contact me if you have any questions!
+Please contact me at alliebray4@gmail.com if you have any questions!
 
